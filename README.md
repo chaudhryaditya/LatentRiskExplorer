@@ -1,4 +1,4 @@
-# FindCorrelations
+# LatentRiskExplorer
 
 This script pulls data from Quandl to assess Granger causality and correlation between a given response variable (can be a stock, commodity, or other financial instrument), and tens of thousands of other financial instruments so as to discover possible latent risks factors. 
 
